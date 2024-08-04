@@ -1,0 +1,15 @@
+body {
+    background-color: #272727;
+}
+.circulo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #4b4b4b;
+    color: aliceblue;
+    align-content: center;
+  }
+
+#canal {
+    margin-left: 10%;
+}
